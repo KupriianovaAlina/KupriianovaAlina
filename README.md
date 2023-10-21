@@ -19,7 +19,7 @@
 * Настройка окружения (Node.js, NPM, Eslint, Makefile)
 * Основы командной строки Bash
 * Знание принципов ООП
-* Фреймвок React
+* React
 * Redux, Redux Toolkit
 
 
