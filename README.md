@@ -1,11 +1,15 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2YzcnltZ3NkZGlnNHZxeWpzZGZ1czZ2d29mOWlkZTVia2l0enJxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="120"/>
+  <div id="badges">
+    <a href="https://t.me/kupriianova_a">
+      <img src="https://img.shields.io/badge/Telegram-black?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+    </a>
+    <a href="https://vk.com/kupriianova_a">
+      <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+    </a>
 </div>
-<div id="badges">
-  <a href="https://t.me/kupriianova_a">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-  </a>
 </div>
+
 
 ## Привет! Я начинающий frontend-разработчик
 
