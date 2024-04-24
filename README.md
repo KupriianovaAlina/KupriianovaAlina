@@ -59,4 +59,4 @@ __Стажировка в компании ASTON__ (2024, февраль - ма�
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KupriianovaAlina&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KupriianovaAlina)](https://git.io/streak-stats)
