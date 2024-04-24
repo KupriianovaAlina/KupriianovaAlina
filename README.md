@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2YzcnltZ3NkZGlnNHZxeWpzZGZ1czZ2d29mOWlkZTVia2l0enJxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="120"/>
-  <div id="badges" display="flex" gap="3">
-    <a href="https://www.linkedin.com/in/alina-kupriianova/">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/alina-kupriianova/" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://t.me/kupriianova_a">
@@ -11,6 +11,11 @@
       <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
     </a>
   </div>
+  <img src="https://komarev.com//ghpvc/?username=KupriianovaAlina&style=flat-square&color=blue" alt=""/>
+  <h1> Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  <br />
+    Я Алина, начинающий frontend-разработчик
+  </h1>
+
 </div>
 
 
