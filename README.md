@@ -5,7 +5,10 @@
       <img src="https://img.shields.io/badge/Telegram-black?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
     <a href="https://vk.com/kupriianova_a">
-      <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+      <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge"/>
+    </a>
+     <a href="https://www.linkedin.com/in/alina-kupriianova/">
+      <img src="https://img.shields.io/badge/LinkedIn-light-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 </div>
 </div>
