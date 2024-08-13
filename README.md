@@ -26,7 +26,7 @@
 ### :computer: Work Experience
 
 __Intern Frontend Developer, ASTON (2024, январь - апрель)__
-  - Успешное выполнение командного проекта с использованием TS, React, Redux (ссылка) 
+  - Успешное выполнение командного проекта с использованием TS, React, Redux (ссылка: https://github.com/KupriianovaAlina/gallery-project) 
   - Лидерство в команде разработки: декомпозиция задач, контроль за соблюдением дедлайнов, активное участие в процессе code review для повышения качества кода
 
 __Junior Frontend Developer, MATRIX (2024, май - настоящее время)__
