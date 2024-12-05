@@ -30,7 +30,7 @@ __Intern Frontend Developer, ASTON (2024, январь - апрель)__
   - Лидерство в команде разработки: декомпозиция задач, контроль за соблюдением дедлайнов, активное участие в процессе code review для повышения качества кода
 
 __Junior Frontend Developer, MATRIX (2024, май - настоящее время)__
-  - Работа с React, Redux, REST API, Docker, NextJS, Tailwind CSS, GitLab
+  - Работа с React, Redux, REST API, Docker, Tailwind CSS, GitLab, Storybook
   - Участие в выработке стратегии разработки, установлении правил написания кода
   - Умение читать много чужого кода :)
 
