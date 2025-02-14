@@ -30,7 +30,7 @@ __Frontend Developer, MATRIX (февраль, 2024 - настоящее врем
   - Умение читать много чужого кода :)
 
 __Intern Frontend Developer, ASTON (ноябрь, 2023 - февраль, 2024)__
-  - Успешное выполнение командного проекта с использованием TS, React, Redux (ссылка: https://github.com/KupriianovaAlina/gallery-project) 
+  - Успешное выполнение [командного проекта с использованием TS, React, Redux](ссылка: https://github.com/KupriianovaAlina/gallery-project) 
   - Лидерство в команде разработки: декомпозиция задач, контроль за соблюдением дедлайнов, активное участие в процессе code review для повышения качества кода
 
 ### :mortar_board: Education and courses :
