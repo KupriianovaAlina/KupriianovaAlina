@@ -7,7 +7,7 @@
   </div>
   <img src="https://komarev.com//ghpvc/?username=KupriianovaAlina&style=flat-square&color=blue" alt=""/>
   <h1> Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  <br />
-    Я Алина, junior frontend-разработчик
+    Я Алина, frontend-разработчик
   </h1>
 </div>
 
@@ -65,7 +65,3 @@ __Хекслет: фронтенд-разработчик (2023, январь - 
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" **alt="typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="storybook" **alt="storybook" width="40" height="40"/>&nbsp;
 </div>
-
-### :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KupriianovaAlina&show_icons=true&theme=radical&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KupriianovaAlina&show_icons=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
