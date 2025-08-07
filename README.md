@@ -20,6 +20,7 @@
 ### :computer: Work Experience
 
 __Junior+ Frontend Developer, T-Bank (июнь, 2025 - настоящее время)__
+
 Команда Кредитных Карт Web
 
 __Junior Frontend Developer, MATRIX (май, 2024 - май, 2025)__
