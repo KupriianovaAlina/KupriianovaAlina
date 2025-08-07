@@ -20,8 +20,7 @@
 ### :computer: Work Experience
 
 __Junior+ Frontend Developer, T-Bank (июнь, 2025 - настоящее время)__
-
-Команда Кредитных Карт Web
+- Команда Кредитных Карт Web
 
 __Junior Frontend Developer, MATRIX (май, 2024 - май, 2025)__
 - Разрабатывала SPA-приложения на React и TypeScript/JavaScript, реализуя UI по макетам из Figma (HTML, CSS, Tailwind)
